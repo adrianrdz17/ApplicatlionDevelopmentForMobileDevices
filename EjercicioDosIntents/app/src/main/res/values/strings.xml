@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Solver Ecuaciones 2do Grado</string>
+    <string name="indicacion">Introduzca los valores de los coeficientes de su ecuacion de segundo grado de la forma ax<sup>2</sup> + bx + c = 0.</string>
+    <string name="campo_a">Inserte el valor de a:</string>
+    <string name="campo_b">Inserte el valor de b:</string>
+    <string name="campo_c">Inserte el valor de c:</string>
+    <string name="aceptar">Resolver</string>
+    <!-- Strings used for fragments for navigation -->
+
+</resources>

@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Listas2</string>
+    <string name="hello">Ejemplo de Listas con ListView</string>
+</resources>

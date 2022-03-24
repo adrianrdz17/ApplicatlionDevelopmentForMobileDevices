@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FechaYHora2</string>
+    <string name="et_hint">Name</string>
+    <string name="et_fecha">Date</string>
+    <string name="et_hora">Hour</string>
+    <string name="btn_select">Select</string>
+    <string name="btn_save">Save</string>
+    <string name="btn_showData">Show Data</string>
+    <string name="tv_show">Los datos de la base de datos son: </string>
+</resources>

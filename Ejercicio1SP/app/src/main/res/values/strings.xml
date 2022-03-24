@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Ejercicio 1 SP</string>
+    <string name="instruction">Digite las coordenadas de la CDMX</string>
+    <string name="text_x">Latitud:</string>
+    <string name="text_y">Longitud:</string>
+    <string name="button_text">Guardar y mostrar  preferencias</string>
+
+    <string name="instruction_activity_second">Las coordenadas de la CDMX segun el archivo de preferencias son:</string>
+    <string name="lat">Latitud: </string>
+    <string name="lon">Longitud: </string>
+
+</resources>
