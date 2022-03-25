@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">DetCalculator</string>
+    <string name="instruction">Determinante de una matriz</string>
+    <string name="boton2x2">2x2</string>
+    <string name="boton3x3">3x3</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Seleccione el tamaño de su matriz</string>
+    <string name="btn_solve">Resolver</string>
+    <string-array name="matrix_labels">
+        <item>a<sub>11</sub></item>
+        <item>a<sub>12</sub></item>
+        <item>a<sub>21</sub></item>
+        <item>a<sub>22</sub></item>
+    </string-array>
+</resources>
