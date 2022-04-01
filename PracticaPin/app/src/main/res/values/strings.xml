@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">PracticaPin</string>
+    <string name="welcome">Bienvenido \n Cree un nuevo pin de acceso.</string>
+    <string name="setPassword">Ingrese su nueva contraseña</string>
+    <string name="verifyPassword">Confirme su nueva contraseña</string>
+    <string name="savePassword">Guardar</string>
+
+    <string name="welcomeAnytime">Bienvenido de nuevo\n Ingrese su pin de acceso para acceder al sistema.</string>
+    <string name="login_pin">Ingrese su pin</string>
+    <string name="login">Accesar al sistema</string>
+    <string name="reset_password">Nueva password</string>
+
+
+</resources>
