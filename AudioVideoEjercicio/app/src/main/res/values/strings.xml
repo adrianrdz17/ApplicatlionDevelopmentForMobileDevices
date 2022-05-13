@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Preferencias</string>
+    <string name="indicaciones">Diseñar una aplicación móvil que permita seleccionar un archivo de audio o video desde la carpeta de su selección para seleccionar las solicitudes de ejecución. Se pueden utilizar los archivos de audio o video de su preferencia.</string>
+    <string name="guardar">Ver video</string>
+    <string name="escucharAudio">Escuchar audio</string>
+    <string name="textoSecondActivity">La imagen almacenada mediante preferencias es:</string>
+    <string name="seleccionar">Seleccionar video</string>
+    <string name="seleccionarAudio">Seleccionar audio</string>
+</resources>
